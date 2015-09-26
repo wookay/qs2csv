@@ -1,2 +1,0 @@
-test_script:
-  - go test -v qs2csv_test.go
